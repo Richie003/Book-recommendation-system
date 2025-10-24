@@ -1,0 +1,10 @@
+ipykernel
+matplotlib
+pandas
+seaborn
+langchain-community
+langchain-openai
+langchain-chroma
+transformers
+gradio
+ipywidgets

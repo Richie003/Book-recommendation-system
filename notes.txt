@@ -1,0 +1,8 @@
+Dependencies ~ 
+    Handle large datasets - pandas
+    Visualization - matplotlib, seaborn
+    Openai's LLM - langchain-community, langchain-openai, langchain-chroma, transformers, gradio
+    Others - ipywidgets
+
+------------------------------------  `PAGE` ----------------------------------------
+
